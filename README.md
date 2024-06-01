@@ -1,1 +1,1 @@
-# sql_50_questions_challenge
+This is the Leetcode 50 SQL Questions challenge
